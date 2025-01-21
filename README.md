@@ -49,7 +49,7 @@ markdown_to_html(md_text): Преобразует ответ из GPT из Markd
 
 
 ```python
-import imaplib
+import imaplib    # by Kirill Kasparov, 2025
 import smtplib
 from email import message_from_bytes
 from email.header import decode_header
